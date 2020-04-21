@@ -1,0 +1,15 @@
+{
+  "name": "laif-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sasstocss": "sass --watch public/css/style.scss public/css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "sass": "^1.23.3"
+  }
+}
